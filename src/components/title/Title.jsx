@@ -1,3 +1,7 @@
+/*
+Exemplo de componente react com children
+*/
+
 import styles from './Title.module.css'
 
 function Title (props) {
