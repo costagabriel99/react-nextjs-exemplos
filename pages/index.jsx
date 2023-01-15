@@ -7,7 +7,7 @@ function HomePage (){
     return (
         <>
             <Head>
-                <Title>Titulo diferente da HomePage</Title>
+                <title>Titulo diferente da HomePage</title>
             </Head>
             <div>
                <Title>Um titulo</Title>
